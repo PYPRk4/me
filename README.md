@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/control1/736x/c7/9f/8b/c79f8b6e5066ab61e4c0122b1633b1a5.jpg" align="left" style="width: 100%" />  
+<img src="https://i.pinimg.com/control1/736x/c7/9f/8b/c79f8b6e5066ab61e4c0122b1633b1a5.jpg" align="left" style="width: 10%" />  
   
 
 # <div align="center">HI! I'm Lev </div>  
